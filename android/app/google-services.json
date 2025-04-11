@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526374776871",
+    "project_id": "homeworkout24-ccbc6",
+    "storage_bucket": "homeworkout24-ccbc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526374776871:android:2fefc16d2246e2dede5e02",
+        "android_client_info": {
+          "package_name": "com.example.newdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlXU_x9f-ZSfnMLDgQXP4mjcpEXyjpLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526374776871:android:a18949b32c8cab85de5e02",
+        "android_client_info": {
+          "package_name": "com.example.newdemo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlXU_x9f-ZSfnMLDgQXP4mjcpEXyjpLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
